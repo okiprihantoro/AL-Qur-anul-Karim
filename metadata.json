@@ -1,0 +1,8 @@
+{
+  "name": "AL-Qur'anul Karim",
+  "description": "Aplikasi Al-Qur'an digital lengkap dan gratis dengan terjemahan Bahasa Indonesia, tajwid berwarna, audio murottal, pencarian ayat offline, jadwal shalat & notifikasi azan, kalender Hijriah, dan mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
